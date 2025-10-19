@@ -1,0 +1,13 @@
+# environment and secrets
+.env
+.env.*
+
+# Python cache and system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# IDE/project-specific
+.vscode/
+.idea/
+
